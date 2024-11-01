@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wk-url2wpthumb\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twentyfourteen\n"
+"POT-Creation-Date: 2014-03-25 12:14+0200\n"
+"PO-Revision-Date: 2014-03-25 12:15+0200\n"
+"Last-Translator: Mohamed Tawfik <mido_alone2001@yahoo.com>\n"
+"Language-Team: Mohamed Tawfik <mido_alone2001@yahoo.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wk-url2wpthumb.php:48
+msgid "Featured Image URL"
+msgstr "رابط الصورة البارزة"
+
+#: ../wk-url2wpthumb.php:55
+msgid "WK Url2Featured"
+msgstr ""
+
+#: ../wk-url2wpthumb.php:67
+msgid "Wk Url 2 Featured Image"
+msgstr ""
+
+#: ../wk-url2wpthumb.php:68
+msgid "Select Post Types to show the widget"
+msgstr "اختر اين سيظهر الفورم"
+
+#: ../wk-url2wpthumb.php:75
+msgid "Page"
+msgstr ""
+
+#: ../wk-url2wpthumb.php:79
+msgid "Post"
+msgstr ""
+
+#: ../wk-url2wpthumb.php:90
+msgid "Save Settings"
+msgstr "حفظ الاعدادات"
+
+#: ../wk-url2wpthumb.php:106
+msgid "Fetch Image"
+msgstr "جلب الصورة"
+
+#~ msgid "mohamed2"
+#~ msgstr "محمد"

@@ -1,0 +1,45 @@
+.wk-url2wpthumb{
+    display: inline-table;
+    position: relative;
+}
+
+#wk_thumb_url{
+    width:100%;
+    text-align: left;
+    direction: ltr;
+}
+
+#wk_update_thumb{
+    width:100%;
+    margin-top:10px;
+    text-align: center;
+}
+
+.wk_url2wpthumb_loader {
+    position: absolute;
+    left: 9px;
+    bottom: 2px;
+    display: none;
+}
+.wk_url2wpthumb_loader img {
+    width: 16px;
+}
+
+.wk_error_field{
+    border: 1px solid red!important;
+}
+
+.wk_url2thumb_setting_page {
+    width: 400px;
+    position: relative;
+}
+.wk_url2thumb_setting_page label {
+    display: inline-table;
+    width: 198px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+#wk_url2thumb_save_settings {
+    margin-top: 20px;
+}
